@@ -1,0 +1,8 @@
+           
+train:  /content/drive/MyDrive/pd/citypersons/train.txt # 
+val:  /content/drive/MyDrive/pd/citypersons/val.txt     # 
+test:  /content/drive/MyDrive/pd/citypersons/test.txt 
+#study:  /content/drive/MyDrive/pd/citypersons/test.txt 
+nc : 1
+
+names : ['person']
